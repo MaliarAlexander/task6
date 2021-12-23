@@ -1,0 +1,15 @@
+body {
+    margin: 60px;
+    align-items: center;
+  }
+  img {
+    align-items: center;
+  }
+
+p{
+    font-size: 24px;
+    background-color: blueviolet;
+    width: 200px;
+    color: white;
+    text-align: center;
+}
